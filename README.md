@@ -39,11 +39,11 @@ This artifact is designed to address these risks through workflow controls.
 |---|---|
 | AI-assisted risk summarization | LLM summarizes applicant risk signals for underwriter review |
 | Direct identifier removal before LLM processing | Designed to prevent direct personal identifiers from entering the language model |
-| LLM groundedness check | A secondary LLM Judge checks summary quality and evidence alignment |
-| Output guardrail | Checks for and blocks or flags PII, discriminatory language, and AI-generated approval or rejection language |
+| Evidence alignment check | A secondary review step checks whether the AI summary is grounded in input evidence — flagging unsupported claims before the memo reaches the underwriter |
+| Output guardrail | A guardrail scan checks for personal data exposure, discriminatory language, and approval or rejection language before any memo is issued |
 | Human-in-the-loop final decision | Underwriter makes all final credit decisions — AI does not |
 | Audit trail | AI outputs are designed to be logged with reviewer ID, timestamp, and rationale |
-| Risk-based prioritization | High-risk and borderline cases are surfaced to senior review |
+| Governance flag-based review prioritization | Cases with complex risk signals or unresolved governance flags are surfaced for senior human review |
 
 ---
 
