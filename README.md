@@ -1,5 +1,5 @@
-![Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/banlang/ai-assisted-credit-underwriting-governance/main/stats/badge.json)
-![Clones](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/banlang/ai-assisted-credit-underwriting-governance/main/stats/badge-clones.json)
+![Unique Visitors](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/banlang/ai-assisted-credit-underwriting-governance/main/stats/badge.json)
+![Unique Cloners](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/banlang/ai-assisted-credit-underwriting-governance/main/stats/badge-clones.json)
 ![Stars](https://img.shields.io/github/stars/banlang/ai-assisted-credit-underwriting-governance?color=79C0FF)
 
 # AI-Assisted Credit Underwriting Governance Workflow
